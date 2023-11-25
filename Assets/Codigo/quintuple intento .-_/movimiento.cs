@@ -7,7 +7,7 @@ public class movimiento : MonoBehaviour
 
     public float runSpeed = 2;
 
-    public float jumpSpeed = 3;
+    public float jumpSpeed = 10;
 
 
     Rigidbody2D rb2D;
